@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Café Bliss</title>
+
+    <link rel="stylesheet" type="text/css" href="master.css">
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <header>
+      <h1>Café Bliss</h1>
+
+      <nav>
+        <ul>
+          <li><a href="#menu">Menu</a></li>
+
+          <li><a href="#offers">Special Offers</a></li>
+
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <!-- Homepage content -->
+
+      <section id="homepage">
+        <h2>Welcome to Café Bliss</h2>
+
+        <p>
+          We are dedicated to providing you with the finest coffee, pastries,
+          and meals in a cozy atmosphere. Whether you're looking for a quick
+          pick-me-up or a relaxing place to unwind, Café Bliss has something for
+          everyone.
+        </p>
+      </section>
+
+      <!-- Menu page content -->
+
+      <section id="menu">
+        <h2>Our Menu</h2>
+
+        <ul id="menu-items">
+          <!-- Menu items injected dynamically -->
+        </ul>
+      </section>
+
+      <!-- Special offers section -->
+
+      <section id="offers">
+        <h2>Special Offers</h2>
+
+        <div id="special-offers">
+          <!-- Special offers content injected dynamically -->
+        </div>
+      </section>
+
+      <!-- Contact page content -->
+
+      <section id="contact">
+        <h2>Contact Us</h2>
+
+        <form id="contact-form">
+          <label for="name">Name:</label>
+
+          <input type="text" id="name" name="name" required />
+
+          <label for="email">Email:</label>
+
+          <input type="email" id="email" name="email" required />
+
+          <label for="message">Message:</label>
+
+          <textarea id="message" name="message" required></textarea>
+
+          <button type="submit">Submit</button>
+        </form>
+      </section>
+    </main>
+
+    <footer>
+      <p>&copy; 2024 Café Bliss. All rights reserved.</p>
+    </footer>
+
+    <script src="scripts.js"></script>
+  </body>
+</html>
