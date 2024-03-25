@@ -1,0 +1,45 @@
+Project Description: 
+
+I’m creating a simple recipe website where users can view various recipes along with their ingredients and instructions. 
+
+Feature List: 
+
+1. Display a list of recipes. 
+2. Show detailed information for each recipe, including ingredients and instructions. 
+3. Allow users to navigate between different recipes. 
+
+List of Tasks: 
+
+1. Displaying Recipes: 
+	• Create HTML structure for displaying recipes. 
+	• Use CSS to style the recipe display. 
+	• Hardcode recipe data in JavaScript. 
+	• Use JavaScript to inject recipe data into the HTML. 
+2. Detailed Recipe View: 
+	• Create HTML structure for displaying detailed recipe information. 
+	• Style the detailed recipe view using CSS. 
+	• Use JavaScript to toggle between recipe views. 
+3. Navigation Between Recipes: 
+	• Implement navigation buttons to switch between recipes. 
+	• Update JavaScript to handle navigation functionality. Requirements Document: 
+
+Project Name: Cafe Bliss
+
+1. Project Description: Create a website where users can view recipes along with their ingredients and instructions. 
+2. Feature List: 
+        • Display a list of recipes. 
+	• Show detailed information for each recipe, including ingredients and instructions. 
+	• Allow users to navigate between different recipes. 
+3. List of Tasks for Each Feature: 
+     • Displaying Recipes:
+	• Create HTML structure for displaying recipes. 
+	• Use CSS to style the recipe display. 
+	• Hardcode recipe data in JavaScript. 
+	• Use JavaScript to inject recipe data into the HTML. 
+     • Detailed Recipe View: 
+	• Create HTML structure for displaying detailed recipe information. 
+	• Style the detailed recipe view using CSS. 
+	• Use JavaScript to toggle between recipe views. 
+     • Navigation Between Recipes: 
+	• Implement navigation buttons to switch between recipes.
+	• Update JavaScript to handle navigation functionality. 
